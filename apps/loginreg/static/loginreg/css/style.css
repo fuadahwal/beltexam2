@@ -1,0 +1,65 @@
+#new_user{
+
+  border: solid red 1px;
+
+  width: 150px;
+
+  padding: 15px;
+
+  margin-bottom: 12px;
+
+  background-color: blue;
+
+}
+
+#returning_user{
+
+  border: solid green 1px;
+
+  width: 150px;
+
+  padding: 15px;
+
+  background-color: blue;
+
+}
+
+#new_user label, #new_user input, #returning_user label, #returning_user input,{
+
+  display: block;
+
+  margin-bottom: 10px;
+
+}
+
+#new_user input, #returning_user input{
+
+  background-color: grey;
+
+}
+
+
+
+#container{
+
+  height: 250px;
+
+  width: 350px;
+
+  border: solid yellow 1px;
+
+}
+
+h2{
+
+  border: solid black 4px;
+
+  background: green;
+
+}
+
+h4{
+
+  color: purple;
+
+}
